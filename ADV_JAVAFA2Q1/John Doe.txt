@@ -1,0 +1,19 @@
+Personal Information
+------------------------------------------------------
+Full Name: John Doe
+ID Number: 202209025420080
+Cell Number: 078 123 6947
+Gender: Male
+Occupation: Software Developer
+Home Address: 13 Imaginary Ave, Stellenbosch
+Work Address: 6 Nowhere Drive, Cape Town
+Gross Pay: R 60 000
+Net Pay: R 30 000
+Valid license: Yes
+Model: Comfortline
+
+Next of kin Information
+------------------------------------------------------
+Full Name: Jane Doe
+Cell Number: 078 321 9674
+Relationship: Wife

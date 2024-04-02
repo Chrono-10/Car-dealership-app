@@ -1,0 +1,19 @@
+Personal Information
+------------------------------------------------------
+Full Name: Jane Doe
+ID Number: 021268874098
+Cell Number: 0987654321
+Gender: Female
+Occupation: Party planner
+Home Address: 6 Nowhere ave, Stellenbosch
+Work Address: 3 Unemployed street, Stellenbosch
+Gross Pay: R 120 000
+Net Pay: R 5 000
+Valid license: Yes
+Model: TSI
+
+Next of kin Information
+------------------------------------------------------
+Full Name: John Doe
+Cell Number: 0123456789
+Relationship: Husband
